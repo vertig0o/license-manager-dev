@@ -1,0 +1,1 @@
+docker-compose down && docker-compose rm && docker volume rm $(docker volume ls -q) && docker-compose up -d

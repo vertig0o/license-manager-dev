@@ -1,0 +1,11 @@
+.ant-tree-switcher {
+    display: list-item ;
+}
+
+.ant-tree-title {
+    white-space: nowrap;
+}
+
+.ant-tree-iconEle {
+    vertical-align: sub !important;
+}

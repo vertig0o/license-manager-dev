@@ -1,0 +1,1 @@
+docker run -it --rm --volume /var/run/docker.sock:/var/run/docker.sock pedasoft/kognisis:1.0.0

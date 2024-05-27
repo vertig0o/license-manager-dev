@@ -1,0 +1,28 @@
+.p-datatable {
+    width: 100%;
+    border: none;
+}
+
+.p-column-title {
+  width: 100%;
+}
+ .p-datatable .p-datatable-thead > tr > th {
+    /* font-size: 16px;
+    font-family: source sans pro semibold;
+    text-align: left;
+    padding: 1rem 1rem; */
+  /*   border: none;
+    border-width: 0 0 1px 0; */
+    font-weight: 500;
+    color: #343a40;
+    background: #F9FAFB;
+    transition: box-shadow 0.2s;
+    padding: 0px;
+} 
+
+.p-datatable .p-datatable-tbody> tr > td {
+  padding-left: 8px !important;
+  padding-right: 8px !important;
+  height: 38px;
+  padding: 0px;
+} 

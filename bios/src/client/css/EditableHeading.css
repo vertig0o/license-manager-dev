@@ -1,0 +1,23 @@
+.editable-heading--wrapper{
+    width: auto !important;
+}
+
+/* .editable-heading-input{
+    height: 50px !important;
+} */
+/* .heading-component{
+    line-height: 48px !important;
+} */
+
+/* h4[data-testid='heading'] {
+    background-color: yellow;
+  } */
+
+/*   div[data-testid='dialog-content-container'] {
+    padding: 0px !important;
+  } 
+   */
+
+   div.bottom.react-flow__attribution.react-flow__panel.right[data-message='Please only hide this attribution when you are subscribed to React Flow Pro: https://pro.reactflow.dev'][style='pointer-events: all;'] {
+    display: none !important;
+    }

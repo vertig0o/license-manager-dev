@@ -1,0 +1,24 @@
+
+div.App-menu__left.Island{
+    left: calc(100% - 220px);
+}
+
+.excalidraw.excalidraw-container {
+    overflow: visible;
+
+}
+
+.excalidraw .library-menu-browse-button {
+    display: none !important;
+}
+
+.excalidraw .library-menu-items-container__header--excal{
+    display: none !important;
+}
+
+
+
+div.dropdown-menu-group {
+    display: none !important;
+} 
+
